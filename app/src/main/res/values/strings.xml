@@ -1,0 +1,223 @@
+
+
+<resources>
+    <string name="app_name">EasyLyf</string>
+    <string name="login">Login</string>
+    <string name="email_id">Email ID</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="user_id">User ID</string>
+    <string name="email_address">Email Address</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="mobileno">Mobile No.</string>
+    <string name="name">Name</string>
+    <string name="recover">Recover</string>
+    <string name="register_seller">Register Seller</string>
+    <string name="delivery_fee">Delivery Fee</string>
+    <string name="shop_name">Shop Name</string>
+    <string name="register_user">Register User</string>
+    <string name="register_as_seller">Register as Seller</string>
+    <string name="forgotpassword">ForgotPassword?</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="confirm_edit">Confirm Edit</string>
+    <string name="update">Update</string>
+    <string name="shop_open">Shop open</string>
+    <string name="add_products">Add Products</string>
+    <string name="discounted_price">Discounted Price</string>
+    <string name="discounted_note_e_g_10_off">Discounted Note e.g. 10% Off</string>
+    <string name="price">Price</string>
+    <string name="category">Category</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="cancel">Cancel</string>
+    <string name="products">Products</string>
+    <string name="orders">Orders</string>
+    <string name="_20">₹20/-</string>
+    <string name="_1_kg">1 KG</string>
+    <string name="_10_off">10% OFF</string>
+    <string name="_10">₹10/-</string>
+    <string name="showing_all">Showing All</string>
+    <string name="search">Search</string>
+    <string name="product_details">Product Details</string>
+    <string name="_15">₹15</string>
+    <string name="__10">₹10</string>
+    <string name="quantity">Quantity</string>
+    <string name="the_product_description">The Product description</string>
+    <string name="the_product_title">The Product Title</string>
+    <string name="shop_details">Shop Details</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="open">Open</string>
+    <string name="email">Email</string>
+    <string name="order_to">Order To</string>
+    <string name="sub_total">Sub Total</string>
+    <string name="_22">₹22</string>
+    <string name="_12">₹12</string>
+    <string name="total_price">Total Price:</string>
+    <string name="confirm_order">Confirm Order</string>
+    <string name="reminder">Reminder</string>
+    <string name="button">Button</string>
+    <string name="string_button" />
+    <string name="period_cycle">Period Tracker</string>
+    <string name="shopping">Shopping</string>
+    <string name="_1">1</string>
+    <string name="final_price">Final Price</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="product_description">Product Description</string>
+    <string name="product_title">Product Title</string>
+    <string name="ordered_items">Ordered Items</string>
+    <string name="delivery_address">Delivery Address</string>
+    <string name="abc_city">ABC city</string>
+    <string name="_100">#100</string>
+    <string name="items">Items</string>
+    <string name="amount">Amount</string>
+    <string name="_8">8</string>
+    <string name="in_progress">In Progress</string>
+    <string name="order_status">Order Status</string>
+    <string name="date">Date</string>
+    <string name="_20_05_2020">20/05/2020</string>
+    <string name="_12121212">12121212</string>
+    <string name="orderid">OrderId</string>
+    <string name="order_details">Order Details</string>
+    <string name="reminder_title" />
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Settings</string>
+    <string name="ParaKnowledge">Examples of menstrual problems include:
+\n\n
+Periods that occur less than 21 days or more than 35 days apart
+        \n\n
+Missing three or more periods in a row
+        \n\n
+Menstrual flow that is much heavier or lighter than usual
+        \n\n
+Periods that last longer than seven days
+        \n\n
+Periods that are accompanied by pain, cramping, nausea or vomiting
+        \n\n
+Bleeding or spotting that happens between periods, after menopause or following sex
+</string>
+    <string name="paraexercise">Best exercises to do during periods
+\n\n
+\n\n
+The first few days of periods can be challenging due to abdominal cramps and heavy bleeding. Exercise can be a saviour for you on these difficult days. Here are a few simple workouts to keep you healthy and happy-
+\n\n
+1: Walking
+\n\n
+A simple, light walk is the best exercise you can do during your periods. This low-intensity aerobic exercise helps your lungs work properly later in your cycle. So, lace up your favourite sneakers and hit the road for a stroll or a brisk walk around. These will also help you to uplift your mood and will you able to burn some calories. These light movements of your body will increase the secretion of endorphins.
+\n\n
+2: Running
+\n\n
+Yes, running! In the later days of your periods or when you have mild symptoms, you can go running. Go for a slow run and take some breaks in between if you feel uncomfortable. Running can reduce your pain and irritability instantly. Remember to keep yourself well hydrated.
+\n\n
+3: Yoga
+\n\n
+Yoga can relax your cranky and irritable mood just by stretching and breathing exercises. Many yoga poses help to increase your blood circulation and provide ease to your noxious complaints. It is scientifically proven and tested that yoga helps to relax your body and relieve your period symptoms such as cramps and bloating.
+\n\n
+4: Pilates
+\n\n
+Pilates is the most trending type of workout nowadays. It helps to relax your body and keep you calm and healthy. Pilate moves are target specific muscle groups, so you can tailor out your workout as you need. Pilate builds a core strength that can reduce the severity of your cramps.
+\n\n
+5: Light lifting
+\n\n
+If you are unable to go for a walk or gym, then at least you can do light weight lifting at your home. Try light lifting and power-based moves that will result in increasing muscle flexibility and strength.
+\n\n
+6: Stretching
+\n\n
+Simple stretches at home can be beneficial than just rolling on your bed. If you are having more discomfort doing other exercises, then try to do stretching and take deep breaths to relax your body muscles.
+\n\n
+7: Dancing
+\n\n
+Dancing is a fun activity that can uplift your mood and burn extra calories too. So, enrol yourself in a Zumba class if you are up for it.
+\n\n
+8: Swimming
+\n\n
+It is a foreign concept for many girls, but swimming is one of the most relaxing and gentle exercises you can do even you are on your periods. You won’t bleed out if your flow is light because of the counter-pressure of water. For better protection, you can use tampons. Many doctors suggest that females will bleed less when they are in cold water because of the cold clamping of blood vessels down for a bit.
+\n\n
+\n\n
+Exercises to avoid during periods
+\n\n
+Avoid strenuous exercises.
+\n\n
+Avoid exercises for a prolonged time.
+\n\n
+Inversion poses with yoga is not recommended.
+\n\n
+Don’t force your body to exercise. Listen to your body.</string>
+    <string name="paradiets">Foods to eat
+\n\n
+1. Water
+Drinking a lot of water is always important, and this is especially true during your period. Staying hydrated can reduce your chances of getting dehydration headaches, a common symptom of menstruation.
+\n\n
+2. Fruit
+Water-rich fruits, such as watermelon and cucumber, are great for staying hydrated. Sweet fruits can help you curb your sugar cravings without eating a lot of refined sugars, which can cause your glucose levels to spike and then crash.
+\n\n
+3. Leafy green vegetables
+It’s common to experience a dip in your iron levels during your period, particularly if your menstrual flow is heavy. This can lead to fatigue, bodily pain, and dizziness.
+\n\n
+4. Ginger
+A warm mug of ginger tea can improve certain symptoms of menstruation. Ginger has anti-inflammatory effects, which can soothe achy muscles.
+\n\n
+5. Chicken
+Chicken is another iron- and protein-rich food you can add to your diet. Eating protein is essential for your overall health, and it can help you stay full and sated during your period, curbing cravings.
+\n\n
+6. Fish
+Rich in iron, protein, and omega-3 fatty acids, fish is a nutritious addition to your diet. Consuming iron will counteract the dip in iron levels that you might experience while menstruating.
+\n\n
+7. Turmeric
+Turmeric is known as an anti-inflammatory spice, and curcumin is its main active ingredient. A 2015 study looked at the effects of curcumin on PMS symptoms and found that people who took curcumin had less severe symptoms.
+\n\n
+8. Dark chocolate
+A tasty and beneficial snack, dark chocolate is rich in iron and magnesium. A 100-gram bar of 70 to 85 percent dark chocolate contains 67 percent of the recommended daily intake (RDI) for iron and 58 percent of the RDI for magnesium.
+\n\n
+9. Nuts
+Most nuts are rich in omega-3 fatty acids, and they’re a great source of protein. They also contain magnesium and various vitamins. If you don’t want to eat nuts on their own, try nut butters or nut-based milks or add these ingredients to smoothies.
+\n\n
+10. Flaxseed oil
+Every 15 milliliters of flaxseed oil contains 7,195 milligrams of omega-3 fatty acids. For perspective, the Office of Dietary Supplements says you need only about 1,100 to 1,600 milligramsTrusted Source of omega-3s per day.
+\n\n
+11. Quinoa
+Quinoa is rich in nutrients such as iron, protein, and magnesium. It’s also gluten-free, so it’s a great food for those with celiac disease. Plus, it has a low glycemic index, which means you’re likely to feel full and have energy for a long time after eating it.
+\n\n
+12. Lentils and beans
+Lentils and beans are rich in protein, so they’re good meat replacements for vegans and vegetarians. They’re also rich in iron, which makes them great additions to your diet if your iron levels are low.
+\n\n
+13. Yogurt
+Many people get yeast infections during or after their period. If you tend to get yeast infections, probiotic-rich foods like yogurt can nourish the “good” bacteria in your vagina and may help you fight the infections.
+\n\n
+14. Tofu
+A popular source of protein for vegetarians and vegans, tofu is made from soybeans. It’s rich in iron, magnesium, and calcium.
+\n\n
+15. Peppermint tea
+A 2016 study suggests that peppermint tea can soothe the symptoms of PMS. Specifically, it can relieve menstrual cramps, nausea, and diarrhea.
+\n\n
+16. Kombucha
+Yogurt isn’t the only probiotic-rich food with yeast-fighting benefits. If you’re avoiding dairy, kombucha tea is a great fermented food that’s more widely available than ever before. Try to avoid kombucha drinks that contain too much sugar.
+\n\n
+\n\n
+Foods to avoid
+\n\n
+While all foods are OK in moderation, you might want to avoid certain foods that worsen the symptoms of your period.
+\n\n
+1. Salt
+Consuming lots of salt leads to water retention, which can result in bloating. To reduce bloating, don’t add salt to your foods and avoid highly processed foods that contain a lot of sodium.
+\n\n
+2. Sugar
+It’s OK to have sugar in moderation, but eating too much of it can cause a spike in energy followed by a crash. This can worsen your mood. If you tend to feel moody, depressed, or anxious during your period, watching your sugar intake can help regulate your mood.
+\n\n
+3. Coffee
+Caffeine can cause water retention and bloating. It can also exacerbate headaches. But caffeine withdrawal can cause headaches, too, so don’t cut out coffee completely if you’re used to having a few cups a day.
+\n\n
+4. Alcohol
+Alcohol can have a number of negative effects on your body, which can exacerbate the symptoms of your period.
+\n\n
+5. Spicy foods
+Many people find that spicy foods upset their stomachs, giving them diarrhea, stomach pain, and even nausea. If your stomach struggles to tolerate spicy foods or if you’re not used to eating them, it might be best to avoid them during your period.
+\n\n
+6. Red meat
+During your period, your body produces prostaglandins. These compounds help your uterus contract and get rid of the uterine lining, resulting in your menstrual flow. However, high levels of prostaglandins cause cramps.
+\n\n
+7. Foods you don’t tolerate well
+This might seem obvious, but it’s worth emphasizing: If you have food sensitivities, avoid those foods, especially during your period.
+</string>
+</resources>

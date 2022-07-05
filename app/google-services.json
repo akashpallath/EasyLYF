@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660696346909",
+    "project_id": "easylyf-1d4b4",
+    "storage_bucket": "easylyf-1d4b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660696346909:android:47c217c100f5bc3d0471f4",
+        "android_client_info": {
+          "package_name": "com.example.easylyf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660696346909-gr1ddq975nleo8nnime6lv1ludfdrhi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbFByrPylIG7YVQJtAw3rGVpKqqQc8kbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660696346909-gr1ddq975nleo8nnime6lv1ludfdrhi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
